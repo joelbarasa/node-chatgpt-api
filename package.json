@@ -1,5 +1,5 @@
 {
-  "name": "@waylaidwanderer/chatgpt-api",
+  "name": "@joelbarasa/chatgpt-api",
   "version": "1.6.1",
   "description": "A ChatGPT implementation using the official ChatGPT model via OpenAI's API.",
   "main": "index.js",
@@ -13,12 +13,12 @@
     "server": "node bin/server.js",
     "cli": "node bin/cli.js"
   },
-  "author": "waylaidwanderer",
+  "author": "joelbarasa",
   "license": "MIT",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waylaidwanderer/node-chatgpt-api.git"
+    "url": "git+https://github.com/joelbarasa/node-chatgpt-api.git"
   },
   "keywords": [
     "chatgpt",
