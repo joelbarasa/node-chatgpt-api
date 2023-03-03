@@ -32,7 +32,7 @@
     "api-wrapper"
   ],
   "dependencies": {
-    "boxen": "^7.0.1",
+    "boxen": "^7.0.2",
     "clipboardy": "^3.0.0",
     "dotenv": "^16.0.3",
     "fastify": "^4.11.0",
